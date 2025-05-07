@@ -14,3 +14,5 @@ Names: Rain van Eetveldt, Luis Zaragoza
 
 ## Github Pages
 https://luisz2004.github.io/Lab5_Starter/expose.html
+
+https://luisz2004.github.io/Lab5_Starter/explore.html
